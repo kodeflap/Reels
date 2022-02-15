@@ -37,17 +37,14 @@ Clone the project in the android studio
 2. Download the firebase config file google-services.json
 
 3. Move the config file to module directory (app) of the project.
-    
-## Progress
 
-Currently it is being in the development phase.It has certain features which is 
-to be developed.Some features are as follows.
+## Screenshots
+
+![](https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-54-32-07.png) 
+![](https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-55-07-79.png)
 
 ### To do
 ```
 * Share
 * Comment
 ```
-
-![](https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-54-32-07.png) 
-![](https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-55-07-79.png)
