@@ -21,11 +21,9 @@ The application is just an inspiration of YouTube and instagram short ui. The ma
 
 ## Run Locally
 
-Clone the project in the android studio
+1. Fork the project
 
-```bash
-  git clone https://github.com/poojaOfficial321/Eshopie.git
-```
+2. Clone the project in the android studio
 
 
 ## Configuration
@@ -39,10 +37,5 @@ Clone the project in the android studio
 3. Move the config file to module directory (app) of the project.
 
 ## Screenshots
-![](https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-55-07-79.png)
+<img src="https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-55-07-79.png" height = 500 width = 350/>
 
-### To do
-```
-* Share
-* Comment
-```
