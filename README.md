@@ -37,5 +37,6 @@ The application is just an inspiration of YouTube and instagram short ui. The ma
 3. Move the config file to module directory (app) of the project.
 
 ## Screenshots
-<img src="https://github.com/poojaOfficial321/Reels/blob/master/Screenshot_2022-02-15-13-55-07-79.png" height = 500 width = 350/>
+<img src="https://user-images.githubusercontent.com/86681482/221949056-f1eac5e2-7cfe-4639-8144-99e03515c0fd.png" height = 500 width = 350/>
+
 
