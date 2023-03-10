@@ -40,3 +40,18 @@ The application is just an inspiration of YouTube and instagram short ui. The ma
 <img src="https://user-images.githubusercontent.com/86681482/221949056-f1eac5e2-7cfe-4639-8144-99e03515c0fd.png" height = 500 width = 350/>
 
 
+## License
+
+Copyright [2023] [kodeflap]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
